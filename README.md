@@ -7,7 +7,7 @@ You play as a bird that has to traverse through pipes. Each traversal awards you
 I wrote this software to learn Unity for the first time.
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/eZmUpH0a9_g)
 
 # Development Environment
 
